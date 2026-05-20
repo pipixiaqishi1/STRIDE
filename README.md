@@ -2,7 +2,7 @@
 
 # STRIDE: Learnable Stepwise Language Feedback for LLM Reasoning
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](stride.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.18851-b31b1b.svg)](https://arxiv.org/abs/2605.18851)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
@@ -22,7 +22,7 @@
     <sup>2</sup>Tongyi Lab, Alibaba Group
 </p>
 
-[Paper](stride.pdf) | [Code](https://github.com/pipixiaqishi1/STRIDE)
+[Paper](https://arxiv.org/pdf/2605.18851) | [Code](https://github.com/pipixiaqishi1/STRIDE)
 
 *Shifting process supervision from scalar rewards to learnable stepwise language feedback — co-training a generator and generative verifier with outcome-only rewards for sustained reasoning improvement.*
 
@@ -198,6 +198,7 @@ If you find our work useful, please consider citing:
 @article{zhang2025stride,
     title={STRIDE: Learnable Stepwise Language Feedback for LLM Reasoning},
     author={Zhang, Junjie and Ma, Guozheng and Liu, Shunyu and Hu, Zetian and Jing, Yongcheng and Lin, Ting-En and Li, Yongbin and Tao, Dacheng},
+    journal={arXiv preprint arXiv:2605.18851},
     year={2025}
 }
 ```
