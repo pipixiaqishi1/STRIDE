@@ -3,7 +3,7 @@
 # STRIDE: Learnable Stepwise Language Feedback for LLM Reasoning
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.18851-b31b1b.svg)](https://arxiv.org/abs/2605.18851)
-[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-NTUITIVE_Non--Commercial-green.svg)](LICENSE)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
 <p>
@@ -181,6 +181,12 @@ Evaluation on all benchmarks (MATH500, AIME 2024/2025, AMC 2023, OlympiadBench, 
 | [`verl/workers/verifier_worker.py`](verl/workers/verifier_worker.py) | Verifier worker: FPF localization, Multi-Point Redirection |
 | [`verl/trainer/config/stride_trainer.yaml`](verl/trainer/config/stride_trainer.yaml) | Hydra configuration for STRIDE training |
 | [`data_preprocess/system_prompt.py`](data_preprocess/system_prompt.py) | Prompt templates for generator, verifier, and redirection |
+
+---
+
+## License
+
+This project is released under the **NTUITIVE Dual License Agreement (Non-Commercial Use Only)**. The Software may be used, copied, and distributed for non-commercial purposes such as academic research, teaching, and personal experimentation. Commercial use is not permitted without a separate license. See the [LICENSE](LICENSE) file for full terms. For commercial licensing inquiries, please contact NTUITIVE.
 
 ---
 
